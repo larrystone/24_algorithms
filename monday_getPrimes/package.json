@@ -1,0 +1,16 @@
+{
+  "name": "get_primes",
+  "version": "1.0.0",
+  "description": "A function to generate prime numbers between 0 to n. Uses Mocha and Chai for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "prime",
+    "numbers",
+    "javascript"
+  ],
+  "author": "Lawal Lanre E. (larrystone)",
+  "license": "ISC"
+}
